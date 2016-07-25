@@ -1,4 +1,4 @@
-# Amazon Price Drop Alert
+# PNR Alert
 This is a python(2.7) script that notifies user (through desktop notifications and mobile message) when the status of their PNR number changes.
 
 ### Dependencies
@@ -10,7 +10,7 @@ This is a python(2.7) script that notifies user (through desktop notifications a
 > **Note:**
 
 > - You must register your mobile on twilio .
-> - You must obtain autorization keys from railwayapi.com.
+> - You must obtain autorization keys from www.railwayapi.com.
 
 ### Installation
 ```
